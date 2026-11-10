@@ -1,29 +1,6 @@
 # Vedang Vatsa
 
-Founder of **[Hashtag Web3](https://hashtagweb3.com)** and **[CVin.Bio](https://cvin.bio)**.
-
----
-
-### [Hashtag Web3](https://hashtagweb3.com)
-
-Global community of 120,000+ AI and Web3 practitioners. Curated Web3 jobs, crypto careers, verified salary data, and practical guides for builders.
-
-- Website: https://hashtagweb3.com
-- Web3 Jobs: [https://hashtagweb3.com](https://hashtagweb3.com)
-- Community on Telegram: https://t.me/hashtagweb3
-- LinkedIn: https://linkedin.com/company/hashtagweb3
-- X (Twitter): https://x.com/hashtag_web3
-
----
-
-### [CVin.Bio](https://cvin.bio)
-
-Turn your PDF CV into a professional website in seconds. AI-powered profiles, skill matching, and a job board with 87,000+ curated engineering, AI/ML, data and product roles.
-
-- Platform: https://cvin.bio
-- Job Board: https://cvin.bio/jobs
-- Daily Tech Jobs on Telegram: https://t.me/techjobsdaily
-- New Job Feed (RSS): https://cvin.bio/rss.xml
+Founder of **[Hashtag Web3](https://hashtagweb3.com)** (100k member web3 community + job board) and **[CVin.Bio](https://cvin.bio)** (Upload CV -> Your Website -> Matching Jobs)
 
 ---
 
