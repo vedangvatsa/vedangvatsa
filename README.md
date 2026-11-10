@@ -37,7 +37,7 @@ Background: Computer Engineer + MBA from [IIT Kanpur](https://www.iitk.ac.in/) (
 
 ### Connect
 
-- Personal Website: https://veda.ng
-- LinkedIn: https://linkedin.com/in/vedangvatsa
-- X (Twitter): https://x.com/vedangvatsa
+- Personal Website: [veda.ng](https://veda.ng)
+- LinkedIn: [linkedin.com/in/vedangvatsa](https://linkedin.com/in/vedangvatsa)
+- X (Twitter): [x.com/vedangvatsa](https://x.com/vedangvatsa)
 - Google Scholar: https://scholar.google.com/citations?user=aW2dd0IAAAAJ&hl=en
